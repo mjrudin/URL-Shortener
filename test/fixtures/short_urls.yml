@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  url: MyString
+  long_url_id: 1
+  creator_id: 1
+
+two:
+  url: MyString
+  long_url_id: 1
+  creator_id: 1
